@@ -1,0 +1,16 @@
+Brian W. Gray
+
+These MSF scripts are poc and have bugs
+
+PJL: the PJL series of msf scripts are my work in progress to build printer modules to scan for PJL enabled printers brute force the PJL password on the printer if necessary.
+
+several options are being worked on.
+ 1. Parse through the printers file systems looking for files of interest .pdf etc. re-configure multifunction printers to save scan/print jobs locally if the options are available so that documents and automatically download any available files.
+
+ 2. Once a PJL printer and password has been determined open a PJL sudo shell session within Metasploit.
+
+These functions are based off of personal research, trial, error, and code from phenoelit and Matt at attackvector.
+
+http://www.phenoelit-us.org/fr/tools.html
+http://www.attackvector.org/fun-with-printers-part-3/
+
