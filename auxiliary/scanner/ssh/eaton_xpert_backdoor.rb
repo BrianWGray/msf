@@ -1,6 +1,6 @@
 ##
 # This module requires Metasploit: https://metasploit.com/download
-# Exploit Title: Eaton Power Xpert Meter ship a public/private key pair
+# Exploit Title: Eaton Xpert Meter SSH Private Key Exposure
 # Date: 07-16-2018
 # Exploit Author: BrianWGray
 # Contact: https://twitter.com/BrianWGray 
