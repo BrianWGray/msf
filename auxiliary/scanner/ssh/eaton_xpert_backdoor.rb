@@ -11,7 +11,7 @@
 # Version: Firmware <= 12.x and <= 13.3.x.x and below more versions may be impacted
 # Recomended to update to Version 13.4.0.10 or above
 # Tested on: Firmware 12.1.9.1 and 13.3.2.10
-# CVE : N/A
+# CVE : CVE-2018-16158
 ##
 
 # XXX: This shouldn't be necessary but is now
